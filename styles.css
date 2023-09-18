@@ -1,0 +1,44 @@
+.nav{
+  background-color: aquamarine;
+  text-align: center;
+  color:blueviolet;
+  width: 99%;
+  height: 75px;
+  margin: 0;
+  border-radius: 15px;
+}
+
+button{
+    margin: 10px;
+    background-color: orange;
+    text-align: center;
+    color:blueviolet;
+    width: 30%;
+    height: 50px;
+    border-radius: 50px;
+    font-size: large;
+}
+.content{
+    text-align: center;
+    background-color: orange;
+    margin: 1px;
+    color:blueviolet;
+    width: 99%;
+    height: 800px;
+    border-radius: 15px;
+
+}
+
+.nav2{
+    background-color: aquamarine;
+    text-align: center;
+    color:blueviolet;
+    width: 99%;
+    height: 250px;
+    margin: 0;
+    border-radius: 15px;
+  }
+
+tr{
+  margin
+}
